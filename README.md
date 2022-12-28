@@ -1,2 +1,2 @@
 # blog-comment
-Comments for Lin's blog
+This repo is only used for storing comments for Lin's blog
